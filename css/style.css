@@ -102,13 +102,11 @@ button{
     margin-top: 5vh;
     box-shadow:  3px 6px 30px 10px;
     padding: 3px;
-    border-radius: 4px;
-    background-color: #aea2bd78;
-    transition: 1s 0.3 ease-in;
+    border-radius: 4px;  
+    background-image: linear-gradient(#c599c4 , #a77385);
 }
-
 button:hover{
-    background-color: #533f7cb4;
+    background-image: linear-gradient(#a77385,#533f7c80);
     transition: 1s 0.3 ease-out;
     padding: 3.5px;
 }

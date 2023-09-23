@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitter&family=Black+Ops+One&family=Poppins:ital@1&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(http://127.0.0.1:5500/BG.JPEG);
+  background-image: no-repeat center  fixed;
+  background-size: cover;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #aea2bd78 ;
+  color: white;
+  padding: 12px 12px;
+}
+
+.logo {
+  font-family: "Black Ops One", cursive;
+  font-size: x-large;
+  margin-left: 10px;
+}
+
+ul {
+  display: flex;
+}
+
+ul li {
+  list-style: none;
+  font-size: 15px;
+  padding: 0 13px;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+  transition: 1s 0.2 ease-in;
+}
+
+ul li a:hover {
+  color: rgb(71, 69, 69);
+  transition: 1s 0.2 ease-out;
+}
+
+main{
+  height: 100vh;
+}
+
+.contnier {
+  max-width: 33vw;
+  margin: auto;
+  margin-top: 30px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  backdrop-filter: blur(5px);
+  box-shadow: rgba(0, 0, 0, 0.37) 0px 8px 32px 0px;
+  border-radius: 16px;
+  height: 89vh;
+}
+
+h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+input{
+    width: 19vw;
+    margin: auto;
+    margin-top: 6vh;
+    box-shadow:  3px 6px 30px 10px;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+input:hover{
+    padding: 7px;
+    transition: 1s 0.3 ease-in-out;
+    
+
+}
+
+#resultCont{
+  color: white;
+}
+
+button{
+    width:6vw ;
+    margin: auto;
+    margin-top: 5vh;
+    box-shadow:  3px 6px 30px 10px;
+    padding: 3px;
+    border-radius: 4px;
+    background-color: #aea2bd78;
+    transition: 1s 0.3 ease-in;
+}
+
+button:hover{
+    background-color: #533f7cb4;
+    transition: 1s 0.3 ease-out;
+    padding: 3.5px;
+}
+
+.loading{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #aea2bd78;
+  color: white;
+  padding: 12px 12px;
+}

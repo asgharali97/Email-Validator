@@ -1,0 +1,288 @@
+@media screen and (max-width:1072px) {
+ ul li{
+    padding: 0 11px;
+ }
+
+ main{
+    height: 105vh;
+ }
+
+ .contnier{
+    max-width: 65vw;
+    height: 95vh;
+    margin-top: 6vh;
+ }
+
+ input{
+    width: 30vw;
+ }
+
+ button{
+    width: 10vw ;
+ }
+
+}
+
+@media screen and (max-width:800px) {
+ ul li{
+    padding: 0 11px;
+ }
+
+ main{
+    height: 105vh;
+ }
+
+ .contnier{
+    max-width: 65vw;
+    height: 85vh;
+    margin-top: 6vh;
+ }
+
+ input{
+    width: 30vw;
+ }
+
+ button{
+    width: 10vw ;
+ }
+
+}
+
+@media screen and (max-width:717px) {
+ main{
+    height: 125vh;
+ }
+
+ .contnier{
+    max-width: 65vw;
+    height: 112vh;
+    margin-top: 6vh;
+ }
+}
+
+@media screen and (max-width:700px) {
+ ul li{
+    padding: 0 11px;
+ }
+
+ main{
+    height: 115vh;
+ }
+
+ .contnier{
+    max-width: 65vw;
+    height: 95vh;
+    margin-top: 6vh;
+ }
+
+ input{
+    width: 30vw;
+ }
+
+ button{
+    width: 10vw ;
+ }
+
+}
+
+@media screen and (max-width:600px) {
+ ul li{
+    padding: 0 11px;
+ }
+
+ main{
+    height: 85vh;
+ }
+
+ .contnier{
+    max-width: 65vw;
+    height: 75vh;
+    margin-top: 6vh;
+ }
+
+ input{
+    width: 30vw;
+ }
+
+ button{
+    width: 12vw ;
+ }
+
+}
+
+
+@media screen and (max-width:548px) {
+ ul li{
+    padding: 0 11px;
+ }
+
+ main{
+    height: 95vh;
+ }
+
+ .contnier{
+    max-width: 75vw;
+    height: 85vh;
+    margin-top: 6vh;
+ }
+
+ input{
+    width: 35vw;
+ }
+
+ button{
+    width: 14vw ;
+ }
+
+}
+
+@media screen and (max-width:473px) {
+ ul li{
+    padding: 0 11px;
+ }
+
+ nav{
+    flex-direction: column;
+ }
+
+ .logo{
+    font-size: 1.5rem;
+ }
+
+h2{
+    font-size: 1.3rem;
+}
+
+main{
+    height: 85vh;
+}
+
+ .contnier{
+    max-width: 80vw;
+    height: 75vh;
+    margin-top: 6vh;
+ }
+
+ input{
+    width: 35vw;
+ }
+
+ button{
+    width: 14.5vw ;
+ }
+
+}
+
+@media screen and (max-width:416px) {
+ ul li{
+    padding: 0 11px;
+ }
+
+ nav{
+    flex-direction: column;
+ }
+
+ .logo{
+    font-size: 1.5rem;
+ }
+
+h2{
+    font-size: 1.3rem;
+}
+
+main{
+    height: 85vh;
+}
+
+ .contnier{
+    max-width: 80vw;
+    height: 75vh;
+    margin-top: 6vh;
+ }
+
+ input{
+    width: 45vw;
+ }
+
+ button{
+    width: 15.5vw ;
+ }
+
+
+}
+
+@media screen and (max-width:388px) {
+ ul li{
+    padding: 0 11px;
+ }
+
+ nav{
+    flex-direction: column;
+ }
+
+ .logo{
+    font-size: 1.5rem;
+ }
+
+h2{
+    font-size: 1.1rem;
+}
+
+main{
+    height: 85vh;
+}
+
+ .contnier{
+    max-width: 80vw;
+    height: 75vh;
+    margin-top: 6vh;
+ }
+
+ input{
+    width: 45vw;
+ }
+
+ button{
+    width: 18vw ;
+ }
+
+
+}
+
+@media screen and (max-width:375px) {
+ ul li{
+    padding: 0 11px;
+ }
+
+ nav{
+    flex-direction: column;
+ }
+
+ .logo{
+    font-size: 1.5rem;
+ }
+
+h2{
+    font-size: 1.1rem;
+}
+
+main{
+    height: 110vh;
+}
+
+ .contnier{
+    max-width: 80vw;
+    height: 95vh;
+    margin-top: 8vh;
+ }
+
+ input{
+    width: 50vw;
+ }
+
+ button{
+    width: 18vw ;
+ }
+
+
+}
